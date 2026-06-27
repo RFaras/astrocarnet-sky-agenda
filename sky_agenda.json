@@ -1,6 +1,216 @@
 {
-  "updatedAt": "",
+  "updatedAt": "2026-06-27T13:11:15+02:00",
   "location": "Saint-Germain / Troyes",
-  "source": "En attente de la première génération automatique",
-  "days": []
+  "source": "AstroCarnet Auto · Skyfield",
+  "days": [
+    {
+      "date": "2026-06-27",
+      "label": "Samedi 27 juin",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse croissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:35"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:10"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "label": "Dimanche 28 juin",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:30"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:10"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "label": "Lundi 29 juin",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:30"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:10"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "label": "Mardi 30 juin",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:25"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:05"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "label": "Mercredi 1 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:20"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:05"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "label": "Jeudi 2 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse décroissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:15"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:05"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "label": "Vendredi 3 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse décroissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:15"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:00"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        }
+      ]
+    }
+  ]
 }
