@@ -1,0 +1,46 @@
+name: Update sky agenda
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 4 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-sky-agenda:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache Skyfield ephemeris
+        uses: actions/cache@v4
+        with:
+          path: ~/.skyfield
+          key: skyfield-de421-v1
+
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate sky_agenda.json
+        run: python generate_sky_agenda.py
+
+      - name: Commit updated agenda
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sky_agenda.json
+          if git diff --cached --quiet; then
+            echo "Aucun changement à committer."
+          else
+            git commit -m "Update sky agenda"
+            git push
+          fi
