@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-06-28T09:58:02+02:00",
+  "updatedAt": "2026-06-29T11:07:28+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-06-28",
-      "label": "Dimanche 28 juin",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Pleine Lune",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "02:30"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "04:10"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:15"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "22:15"
-        }
-      ]
-    },
     {
       "date": "2026-06-29",
       "label": "Lundi 29 juin",
@@ -194,6 +162,33 @@
           "type": "planet",
           "title": "Saturne",
           "visible_from": "02:10"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "04:00"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "label": "Dimanche 5 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse décroissante",
+          "visible_from": "00:15"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "02:05"
         },
         {
           "type": "planet",
