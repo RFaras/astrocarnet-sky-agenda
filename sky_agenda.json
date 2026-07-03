@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-07-02T09:44:26+02:00",
+  "updatedAt": "2026-07-03T09:36:07+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-02",
-      "label": "Jeudi 2 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Lune gibbeuse décroissante",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "02:15"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "04:05"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:15"
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "label": "Vendredi 3 juillet",
@@ -184,6 +157,33 @@
           "type": "planet",
           "title": "Mars",
           "visible_from": "03:55"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:10"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "label": "Jeudi 9 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Dernier quartier",
+          "visible_from": "01:20"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "01:50"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:50"
         },
         {
           "type": "planet",
