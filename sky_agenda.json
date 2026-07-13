@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-07-12T08:45:51+02:00",
+  "updatedAt": "2026-07-13T09:37:12+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-12",
-      "label": "Dimanche 12 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Dernier croissant",
-          "visible_from": "03:10"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "01:40"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:45"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:10"
-        }
-      ]
-    },
     {
       "date": "2026-07-13",
       "label": "Lundi 13 juillet",
@@ -189,6 +162,33 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "22:05"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "label": "Dimanche 19 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Croissant lunaire",
+          "visible_from": "12:25"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "01:10"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:35"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:00"
         }
       ]
     }
