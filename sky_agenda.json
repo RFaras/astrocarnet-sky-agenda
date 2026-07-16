@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-07-15T08:27:53+02:00",
+  "updatedAt": "2026-07-16T08:31:00+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-15",
-      "label": "Mercredi 15 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Nouvelle Lune",
-          "visible_from": "07:05"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "01:25"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:40"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:05"
-        }
-      ]
-    },
     {
       "date": "2026-07-16",
       "label": "Jeudi 16 juillet",
@@ -184,6 +157,33 @@
           "type": "planet",
           "title": "Mars",
           "visible_from": "03:35"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "22:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "label": "Mercredi 22 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Premier quartier",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "01:00"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:30"
         },
         {
           "type": "planet",
