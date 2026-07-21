@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-07-20T09:28:55+02:00",
+  "updatedAt": "2026-07-21T08:41:15+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-20",
-      "label": "Lundi 20 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Premier quartier",
-          "visible_from": "13:40"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "01:10"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:35"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:00"
-        }
-      ]
-    },
     {
       "date": "2026-07-21",
       "label": "Mardi 21 juillet",
@@ -189,6 +162,38 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:55"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "label": "Lundi 27 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse croissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "00:40"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:25"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "05:40"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:50"
         }
       ]
     }
