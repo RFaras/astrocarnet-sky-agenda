@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-07-21T08:41:15+02:00",
+  "updatedAt": "2026-07-22T08:42:15+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-21",
-      "label": "Mardi 21 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Premier quartier",
-          "visible_from": "14:50"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "01:05"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:35"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:00"
-        }
-      ]
-    },
     {
       "date": "2026-07-22",
       "label": "Mercredi 22 juillet",
@@ -189,6 +162,38 @@
           "type": "planet",
           "title": "Mercure",
           "visible_from": "05:40"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:50"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-28",
+      "label": "Mardi 28 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "00:35"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:25"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "05:35"
         },
         {
           "type": "planet",
