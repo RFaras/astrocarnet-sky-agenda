@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-07-23T08:39:58+02:00",
+  "updatedAt": "2026-07-24T08:39:20+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-23",
-      "label": "Jeudi 23 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Premier quartier",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "00:55"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:30"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "22:00"
-        },
-        {
-          "type": "meteor",
-          "title": "Delta Aquarides",
-          "note": "Pic dans 7 jours."
-        }
-      ]
-    },
     {
       "date": "2026-07-24",
       "label": "Vendredi 24 juillet",
@@ -59,6 +27,11 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:55"
+        },
+        {
+          "type": "meteor",
+          "title": "Delta Aquarides",
+          "note": "Pic dans 6 jours."
         }
       ]
     },
@@ -209,6 +182,43 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:50"
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "label": "Jeudi 30 juillet",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "00:30"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:20"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "05:30"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:50"
+        },
+        {
+          "type": "meteor",
+          "title": "Delta Aquarides",
+          "note": "Pic cette nuit."
         }
       ]
     }
