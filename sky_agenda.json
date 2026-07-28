@@ -1,45 +1,8 @@
 {
-  "updatedAt": "2026-07-27T09:51:09+02:00",
+  "updatedAt": "2026-07-28T08:40:10+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-27",
-      "label": "Lundi 27 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Lune gibbeuse croissante",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "00:40"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:25"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "05:40"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:50"
-        },
-        {
-          "type": "meteor",
-          "title": "Delta Aquarides",
-          "note": "Pic dans 3 jours."
-        }
-      ]
-    },
     {
       "date": "2026-07-28",
       "label": "Mardi 28 juillet",
@@ -69,6 +32,11 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:50"
+        },
+        {
+          "type": "meteor",
+          "title": "Delta Aquarides",
+          "note": "Pic dans 2 jours."
         }
       ]
     },
@@ -234,6 +202,38 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:45"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "label": "Lundi 3 août",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse décroissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "00:15"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:15"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "05:30"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:40"
         }
       ]
     }
