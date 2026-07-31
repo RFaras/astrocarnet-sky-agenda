@@ -1,45 +1,8 @@
 {
-  "updatedAt": "2026-07-30T08:41:03+02:00",
+  "updatedAt": "2026-07-31T09:13:36+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-07-30",
-      "label": "Jeudi 30 juillet",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Pleine Lune",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "00:30"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:20"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "05:30"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:50"
-        },
-        {
-          "type": "meteor",
-          "title": "Delta Aquarides",
-          "note": "Pic cette nuit."
-        }
-      ]
-    },
     {
       "date": "2026-07-31",
       "label": "Vendredi 31 juillet",
@@ -229,6 +192,38 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:40"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "label": "Jeudi 6 août",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Dernier quartier",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:10"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "05:30"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:35"
         }
       ]
     }
