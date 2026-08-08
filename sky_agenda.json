@@ -1,45 +1,8 @@
 {
-  "updatedAt": "2026-08-07T07:50:18+02:00",
+  "updatedAt": "2026-08-08T07:09:33+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-08-07",
-      "label": "Vendredi 7 août",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Dernier quartier",
-          "visible_from": "00:20"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:10"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "05:30"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:35"
-        },
-        {
-          "type": "meteor",
-          "title": "Perséides",
-          "note": "Pic dans 5 jours."
-        }
-      ]
-    },
     {
       "date": "2026-08-08",
       "label": "Samedi 8 août",
@@ -69,6 +32,11 @@
           "type": "planet",
           "title": "Vénus",
           "visible_from": "21:35"
+        },
+        {
+          "type": "meteor",
+          "title": "Perséides",
+          "note": "Pic dans 4 jours."
         }
       ]
     },
@@ -229,6 +197,43 @@
           "type": "planet",
           "title": "Mercure",
           "visible_from": "05:55"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:25"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "label": "Vendredi 14 août",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Croissant lunaire",
+          "visible_from": "08:45"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "03:05"
+        },
+        {
+          "type": "planet",
+          "title": "Mercure",
+          "visible_from": "06:00"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "06:10"
         },
         {
           "type": "planet",
