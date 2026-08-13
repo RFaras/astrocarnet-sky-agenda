@@ -1,45 +1,8 @@
 {
-  "updatedAt": "2026-08-12T07:45:45+02:00",
+  "updatedAt": "2026-08-13T07:48:33+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-08-12",
-      "label": "Mercredi 12 août",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Nouvelle Lune",
-          "visible_from": "06:00"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:05"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "05:50"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:25"
-        },
-        {
-          "type": "meteor",
-          "title": "Perséides",
-          "note": "Pic cette nuit."
-        }
-      ]
-    },
     {
       "date": "2026-08-13",
       "label": "Jeudi 13 août",
@@ -234,6 +197,38 @@
           "type": "planet",
           "title": "Mars",
           "visible_from": "03:00"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "06:00"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:15"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "label": "Mercredi 19 août",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Premier quartier",
+          "visible_from": "15:00"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:55"
         },
         {
           "type": "planet",
