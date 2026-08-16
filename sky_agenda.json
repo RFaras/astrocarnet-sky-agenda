@@ -1,45 +1,8 @@
 {
-  "updatedAt": "2026-08-15T06:46:44+02:00",
+  "updatedAt": "2026-08-16T06:49:40+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-08-15",
-      "label": "Samedi 15 août",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Croissant lunaire",
-          "visible_from": "10:05"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "03:00"
-        },
-        {
-          "type": "planet",
-          "title": "Mercure",
-          "visible_from": "06:05"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "06:10"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:20"
-        }
-      ]
-    },
     {
       "date": "2026-08-16",
       "label": "Dimanche 16 août",
@@ -229,6 +192,38 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "05:55"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:10"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "label": "Samedi 22 août",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Lune gibbeuse croissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:55"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "05:50"
         },
         {
           "type": "planet",
