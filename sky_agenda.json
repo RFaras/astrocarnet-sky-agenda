@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-08-19T06:51:21+02:00",
+  "updatedAt": "2026-08-20T06:53:03+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-08-19",
-      "label": "Mercredi 19 août",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Premier quartier",
-          "visible_from": "15:00"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:55"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "06:00"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:15"
-        }
-      ]
-    },
     {
       "date": "2026-08-20",
       "label": "Jeudi 20 août",
@@ -203,6 +171,38 @@
         {
           "type": "moon",
           "title": "Lune gibbeuse croissante",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:50"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "05:40"
+        },
+        {
+          "type": "planet",
+          "title": "Vénus",
+          "visible_from": "21:00"
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "label": "Mercredi 26 août",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Pleine Lune",
           "visible_from": "début de nuit"
         },
         {
