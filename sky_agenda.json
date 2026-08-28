@@ -1,40 +1,8 @@
 {
-  "updatedAt": "2026-08-27T17:15:00+02:00",
+  "updatedAt": "2026-08-28T18:38:44+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-08-27",
-      "label": "Jeudi 27 août",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Pleine Lune",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:50"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "05:35"
-        },
-        {
-          "type": "planet",
-          "title": "Vénus",
-          "visible_from": "21:00"
-        }
-      ]
-    },
     {
       "date": "2026-08-28",
       "label": "Vendredi 28 août",
@@ -214,6 +182,33 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "05:20"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "label": "Jeudi 3 septembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Dernier quartier",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:45"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "05:15"
         }
       ]
     }
