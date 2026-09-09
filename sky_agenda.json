@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-09-08T10:52:08+02:00",
+  "updatedAt": "2026-09-09T10:58:05+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-09-08",
-      "label": "Mardi 8 septembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Dernier croissant",
-          "visible_from": "03:35"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:40"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "05:00"
-        }
-      ]
-    },
     {
       "date": "2026-09-09",
       "label": "Mercredi 9 septembre",
@@ -189,6 +162,33 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "04:45"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "label": "Mardi 15 septembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Croissant lunaire",
+          "visible_from": "12:40"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:30"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "04:40"
         }
       ]
     }
