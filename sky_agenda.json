@@ -1,35 +1,8 @@
 {
-  "updatedAt": "2026-09-11T10:54:57+02:00",
+  "updatedAt": "2026-09-12T10:38:00+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-09-11",
-      "label": "Vendredi 11 septembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Nouvelle Lune",
-          "visible_from": "07:40"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:35"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "04:55"
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "label": "Samedi 12 septembre",
@@ -174,6 +147,33 @@
           "type": "moon",
           "title": "Premier quartier",
           "visible_from": "15:00"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:30"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "04:35"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "label": "Vendredi 18 septembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Premier quartier",
+          "visible_from": "15:55"
         },
         {
           "type": "planet",
