@@ -1,62 +1,8 @@
 {
-  "updatedAt": "2026-09-12T10:38:00+02:00",
+  "updatedAt": "2026-09-14T11:51:46+02:00",
   "location": "Saint-Germain / Troyes",
   "source": "AstroCarnet Auto · Skyfield",
   "days": [
-    {
-      "date": "2026-09-12",
-      "label": "Samedi 12 septembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Nouvelle Lune",
-          "visible_from": "08:55"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:35"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "04:50"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-13",
-      "label": "Dimanche 13 septembre",
-      "source": "AstroCarnet Auto · Skyfield",
-      "items": [
-        {
-          "type": "moon",
-          "title": "Croissant lunaire",
-          "visible_from": "10:10"
-        },
-        {
-          "type": "planet",
-          "title": "Saturne",
-          "visible_from": "début de nuit"
-        },
-        {
-          "type": "planet",
-          "title": "Mars",
-          "visible_from": "02:35"
-        },
-        {
-          "type": "planet",
-          "title": "Jupiter",
-          "visible_from": "04:50"
-        }
-      ]
-    },
     {
       "date": "2026-09-14",
       "label": "Lundi 14 septembre",
@@ -189,6 +135,60 @@
           "type": "planet",
           "title": "Jupiter",
           "visible_from": "04:35"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "label": "Samedi 19 septembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Premier quartier",
+          "visible_from": "16:45"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:30"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "04:30"
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "label": "Dimanche 20 septembre",
+      "source": "AstroCarnet Auto · Skyfield",
+      "items": [
+        {
+          "type": "moon",
+          "title": "Premier quartier",
+          "visible_from": "17:25"
+        },
+        {
+          "type": "planet",
+          "title": "Saturne",
+          "visible_from": "début de nuit"
+        },
+        {
+          "type": "planet",
+          "title": "Mars",
+          "visible_from": "02:30"
+        },
+        {
+          "type": "planet",
+          "title": "Jupiter",
+          "visible_from": "04:30"
         }
       ]
     }
